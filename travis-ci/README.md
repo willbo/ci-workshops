@@ -1,4 +1,5 @@
 # Travis CI Workshop
+[![Build Status](https://travis-ci.org/caffalaughrey/ci-workshops.svg?branch=travis-ci-answers)](https://travis-ci.org/caffalaughrey/ci-workshops)
 
 The purpose of the workshop is to get a working build of this sample repository up and running.
 Ideally, you'll be able to apply this to any project!
@@ -22,3 +23,5 @@ Ideally, you'll be able to apply this to any project!
 fails, troubleshoot and repeat steps 6-7!  You can troubleshoot by clicking into a failed job like
 [this one](https://travis-ci.org/caffalaughrey/ci-workshops/jobs/384779290), then inspecting the logs.
 
+## Extra credit
+Add a shield to this README file showing the build status!
