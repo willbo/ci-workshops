@@ -17,4 +17,4 @@ Ideally, you'll be able to apply this to any project!
 4. In your new local `ci-workshops` directory, create a new file called `.travis.yml`
 5. Edit `.travis.yml`.  Since this is a Python project, use the
 [Travis documentation](https://docs.travis-ci.com/user/languages/python/) to prepare this file.
-6. Add your files, commit, and push this branch.
+6. Add your files, commit, and push this branch.  If the build fails, troubleshoot and repeat!
