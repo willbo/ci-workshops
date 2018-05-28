@@ -20,5 +20,5 @@ Ideally, you'll be able to apply this to any project!
 6. Add your files, commit, and push this branch.
 7. Navigate to https://travis-ci.org/<your user>/ci-workshops, sit back, and wait for your build to complete. If it
 fails, troubleshoot and repeat steps 6-7!  You can troubleshoot by clicking into a failed job like
-[this one](https://travis-ci.org/caffalaughrey/ci-workshops/jobs/384776914), then inspecting the logs.
+[this one](https://travis-ci.org/caffalaughrey/ci-workshops/jobs/384779290), then inspecting the logs.
 
